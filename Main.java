@@ -1,9 +1,8 @@
 public class Main {
 public static void main(String[]args) {
 
-    System.out.println("Hello");
-    System.out.println("Hello worddd");
+Stuff stuff = new Stuff(10);
+stuff.printAddAmount(6);
+System.out.println(stuff.getValue());
 }
-
-
 }
