@@ -1,9 +1,9 @@
-public class Stuff {
-
+public class Point {
+    
 
     private int value;
 
-    public Stuff(int value) {
+    public Point(int value) {
         this.value = value;
 
     }
